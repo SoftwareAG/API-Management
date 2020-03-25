@@ -12,6 +12,10 @@ When you expose your APIs to the world, security is your top priority. API Cloud
 - A developer portal for collaboration
 - A way to monetize your APIs
 
+## Getting Started
+
+
+## Devops Resources
 
 ______________________
 For more information you can Ask a Question in the [TECHcommunity Forums](http://tech.forums.softwareag.com/techjforum/forums/list.page?product=cumulocity).
