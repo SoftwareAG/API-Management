@@ -1,6 +1,6 @@
 # API Management
 
-API Management is a tool to Securely manage and expose your APIs to third-party developers, partners and other consumers for use in web, mobile and Internet of Things (IoT) applications. Create new business models and enrich your ecosystems with full lifecycle API management. To try out API Management, you may sign up for free 30 trial tenant at [Software AG API Management](https://www.softwareag.cloud/site/product/webmethods-api.html#/)
+API Management is a tool to securely manage and expose your APIs to third-party developers, partners and other consumers for use in web, mobile and Internet of Things (IoT) applications. Create new business models and enrich your ecosystems with full lifecycle API management. To try out API Management, you may sign up for free 30 trial tenant at [Software AG API Management](https://www.softwareag.cloud/site/product/webmethods-api.html#/)
 
 ## Why API Management?
 
